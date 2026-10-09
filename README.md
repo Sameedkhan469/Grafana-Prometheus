@@ -1,3 +1,7 @@
+## Grafana Dashboard
+
+![AWS EC2 Monitoring Dashboard](screenshots/grafana-dashboard.jpg)
+
 # AWS EC2 Monitoring with Prometheus and Grafana
 
 ## Project Overview
