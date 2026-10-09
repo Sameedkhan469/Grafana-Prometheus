@@ -1,0 +1,25 @@
+# Terraform working files
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# Local Terraform variables
+*.tfvars
+*.tfvars.json
+
+# Keep provider lock files tracked
+!**/.terraform.lock.hcl
+
+# Private keys and credentials
+*.pem
+*.ppk
+.env
+.env.*
+!.env.example
+
+# Editors and operating system
+.vscode/
+.DS_Store
+Thumbs.db
